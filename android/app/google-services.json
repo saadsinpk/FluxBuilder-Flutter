@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "990310333405",
+    "project_id": "tfw-push-78338",
+    "storage_bucket": "tfw-push-78338.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990310333405:android:48e0903ff4596e7a719434",
+        "android_client_info": {
+          "package_name": "com.todaysfitwear.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990310333405-3r5hra2lokc8d2qiphjubicoaid3ub76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.todaysfitwear.app",
+            "certificate_hash": "fb3fd1d3f559c607ffa882d005d70dc2d24efdaf"
+          }
+        },
+        {
+          "client_id": "990310333405-a374a536d35n8lpoa9f6803bdum26nja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfSrSWn9Urvid5qy6jXa89eccfQkTy8MM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990310333405-a374a536d35n8lpoa9f6803bdum26nja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "990310333405-cco6tq8u8iag30sl8o2eicfsav6puvrt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.todaysfitwear.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
